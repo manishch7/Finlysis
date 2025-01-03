@@ -1,27 +1,29 @@
-# Finlysis
+Finlysis: Your AI-Powered Investment Assistant 💹
 
-The Investment Decision Assistant is a chatbot application designed to analyze and explore financial data for a set of companies. It leverages advanced technologies to provide insights into stock performance, relationships between companies, and market sentiment. This project focuses on 10 key companies:
+Welcome to Finlysis, the ultimate assistant for investors seeking actionable insights and smarter decision-making! With cutting-edge AI, graph databases, and financial data integration, Finlysis transforms complex stock market information into intuitive, interactive insights.
 
-['AAPL', 'NVDA', 'AMD', 'JPM', 'BX', 'AMZN', 'TSLA', 'SBUX', 'JNJ', 'MRK']
+🚀 What Can Finlysis Do for You?
 
-Features
+🔍 Analyze Financial News:
 
-Sentiment Analysis
+- Understand market sentiment with advanced NLP models.
 
-Conducts sentiment analysis on financial news and social media data for each company before loading data into the graph database.
+- Explore recent trends affecting your favorite stocks.
 
-Graph-Based Modeling with Neo4J
+📊 Financial Statement Insights:
 
-Models relationships between companies, industries, and sectors using a Neo4J graph database.
+- Dive deep into income statements, balance sheets, and cash flows.
 
-Financial Data Integration
+- Make sense of key metrics with ease.
 
-Fetches real-time and historical financial data using the Financial Modeling Prep (FMP) API Premium.
+📈 Stock Performance Exploration:
 
-Natural Language Interaction
+- Track day to day and historical stock prices.
 
-Provides an intuitive conversational interface using GPT-4o-mini to answer queries about companies, industries, and trends.
+- Identify patterns and trends to inform your strategy.
 
-Streamlit Frontend
+🧠 Intelligent Investment Advice:
 
-Delivers a user-friendly interface for interacting with the chatbot and visualizing insights.
+- Ask investment-related questions and get tailored answers.
+
+- Leverage AI to assess opportunities and risks.
