@@ -2,7 +2,7 @@ Finlysis: Your AI-Powered Investment Assistant 💹
 
 Welcome to Finlysis, the ultimate assistant for investors seeking actionable insights and smarter decision-making! With cutting-edge AI, graph databases, and financial data integration, Finlysis transforms complex stock market information into intuitive, interactive insights.
 
---🚀 What Can Finlysis Do for You?
+🚀 What Can Finlysis Do for You?
 
 🔍 Analyze Financial News:
 
@@ -27,6 +27,8 @@ Welcome to Finlysis, the ultimate assistant for investors seeking actionable ins
 - Ask investment-related questions and get tailored answers.
 
 - Leverage AI to assess opportunities and risks.
+
+  
 
 🌌 Powered by Technology
 
