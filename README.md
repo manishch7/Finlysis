@@ -38,6 +38,8 @@ Finlysis serves as your personal finance assistant. Ask questions like:
 - **GPT-4o-mini**: Natural language understanding for intuitive Q&A.  
 - **Streamlit**: Sleek and easy-to-use interface.  
 - **FMP API Premium**: Reliable and real-time financial data.
+
+## Youtube :- https://youtu.be/O4n4yOhQies
  
 
 ---
