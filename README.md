@@ -27,3 +27,15 @@ Welcome to Finlysis, the ultimate assistant for investors seeking actionable ins
 - Ask investment-related questions and get tailored answers.
 
 - Leverage AI to assess opportunities and risks.
+
+🌌 Powered by Technology
+
+Behind Finlysis is a synergy of modern technologies designed to deliver excellence:
+
+- Neo4J: For graph-based relationships and trends.
+
+- GPT-4o-mini: For natural language understanding and Q&A.
+
+- Streamlit: For an elegant and easy-to-use interface.
+
+- FMP API Premium: For robust and real-time financial data.
