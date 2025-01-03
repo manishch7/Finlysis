@@ -28,7 +28,7 @@ Welcome to Finlysis, the ultimate assistant for investors seeking actionable ins
 
 - Leverage AI to assess opportunities and risks.
 
-  
+ 
 
 🌌 Powered by Technology
 
